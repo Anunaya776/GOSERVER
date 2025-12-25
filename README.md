@@ -17,10 +17,13 @@ This project demonstrates static file serving, HTTP routing, form handling, and 
 
 💡 Uses only Go’s standard library
 
-  Open Browser and Test
+Open Browser and Test
 URL	What You See
+
 http://localhost:8080/	            Home page
+
 http://localhost:8080/form.html     Form page
+
 http://localhost:8080/hello	        Hello message
 
 /form Shows the submitted data on the screen
