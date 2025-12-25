@@ -17,6 +17,8 @@ This project demonstrates static file serving, HTTP routing, form handling, and 
 
 💡 Uses only Go’s standard library
 
+RUN----- go run main.go
+
 Open Browser and Test
 URL	What You See
 
